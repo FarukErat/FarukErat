@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarukErat
 - 👀 I’m interested in improving technology
-- 🌱 I’m currently learning Artificle Intelligince
+- 🌱 I’m currently learning Artificle Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
