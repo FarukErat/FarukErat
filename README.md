@@ -4,5 +4,5 @@
 </p>
 <p align="center"><i>Visitor Count</i></p>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/FarukErat/count.svg" />
+  <img src="https://profile-counter.glitch.me/farukerat/count.svg" />
 </p>
